@@ -10,7 +10,7 @@ Our work proposes a novel **Confidence-based Reward Model (C2RM)** tailored for 
 
 ## Methodology Overview
 
-![Methodology Overview](method_diagram.png)
+![Methodology Overview](method.png)
 
 Our approach consists of several steps:
 1. Data collection from various STEM datasets
