@@ -168,5 +168,5 @@ This repository includes the following main components:
 
 ## Dataset and Model Availability
 
-All model outputs, processed data, and reward model checkpoints have been uploaded to HuggingFace.  
+All processed data, and reward model checkpoints have been uploaded to HuggingFace.  
 However, since our paper is under review at ARR and follows anonymous submission guidelines, we are currently unable to share the direct links.
