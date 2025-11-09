@@ -22,8 +22,8 @@ Our approach consists of several steps:
 
 ## Dataset and Model Availability
 
-All processed data, and reward model checkpoints have been uploaded to HuggingFace.  
-However, since our paper is under review at ARR and follows anonymous submission guidelines, we are currently unable to share the direct links.
+You can download the **C2RM model** directly from [ModelScope](https://www.modelscope.cn/models/renqingyu/c2rm).
+The training dataset is available on https://huggingface.co/datasets/ERRORH/C2RM_pair_data.
 
 ## Data Preparation Pipeline
 
